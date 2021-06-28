@@ -7,4 +7,3 @@ This repository will contain all documentation and code related to the HIP Lab i
 
 ## Getting Started
 - [Parts and Accessories](docs/parts.md)
-- [Cluster Setup](docs/cluster-setup.md)
