@@ -8,7 +8,7 @@ These are the exact parts I purchased for my cluster. You don't have to get the 
 - [1X 10 Port Gigabit Ethernet PoE Switch](https://www.amazon.ca/TRENDnet-Unmanaged-Switching-Capacity-TE-GP102/dp/B08VVWHJJH/ref=sr_1_7?dchild=1&keywords=network+switch+10+port+poe&qid=1624846104&sr=8-7)
 
 
-| Syntax | Description |
-| ————— | ————— |
-| Header | Title |
-| Paragraph | Text |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
