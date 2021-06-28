@@ -1,5 +1,4 @@
 ## Parts and Accessories
-The calcullated costs for each item exclude shipping but many parts are from amazon so the shipping is free.
 
 | Part      | Quantity | Cost (CAD)|
 | ----------- | ----------- | ----------- |
