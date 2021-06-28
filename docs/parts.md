@@ -1,7 +1,7 @@
 ## Parts and Accessories
 
-| Part      | Quantity | Cost (CAD)|
-| ----------- | ----------- | ----------- |
+| Item      | Quantity | Cost (CAD)|
+| :----------- | ----------- | ----------- |
 | [Raspberry Pi 4 2GB](https://www.canakit.com/raspberry-pi-4-2gb.html)       | 4       | 189.80 |
 | [Raspberry Pi PoE Hat](https://www.buyapi.ca/product/raspberry-pi-poe-hat/?src=raspberrypi)       | 4       | 103.73 |
 | [7 Inch TFT LCD Display HDMI Module](https://www.amazon.ca/Longruner-Raspberry-Pi-Touch-Screen-1024x600-Raspberry-Protective/dp/B07RZZW8W1/ref=sr_1_13?dchild=1&keywords=inch+display+raspberry&qid=1624847025&sr=8-13)   | 4        | 331.96 |
