@@ -9,6 +9,6 @@ These are the exact parts I purchased for my cluster. You don't have to get the 
 
 
 | Part      | Quantity | Cost |
-| ----------- | ----------- |
-| 4X Raspberry Pi 4 Model B 2GB - Starter Kit      | Title       |
-| Paragraph   | Text        |
+| ----------- | ----------- | ----------- |
+| 4X Raspberry Pi 4 Model B 2GB - Starter Kit      | 4       |
+| [7 Inch TFT LCD Display HDMI Module](https://www.amazon.ca/Longruner-Raspberry-Pi-Touch-Screen-1024x600-Raspberry-Protective/dp/B07RZZW8W1/ref=sr_1_13?dchild=1&keywords=inch+display+raspberry&qid=1624847025&sr=8-13)   | 82.99        | 82.99 |
